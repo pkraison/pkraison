@@ -7,6 +7,7 @@
  
  📫 How to reach me: 
  Work Email: prashant.rai@tuni.fi
+ 
  Google Scholar: https://scholar.google.com/citations?user=QHhcXZIAAAAJ&hl=en
  
 <!-- 👯 I’m looking to collaborate on 
