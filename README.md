@@ -26,7 +26,7 @@ I’m a **doctoral researcher** exploring cutting-edge **AI and robotic percepti
   - Extending my **environment perception and state estimation in challenging scenarios** research with uncertainty aware deep learning.
 
 - 🌱 **Learning Goals**:  
-  - Exploring probabilistic, complex value, graph and sequence based neural architectures.  
+  - Exploring probabilistic, complex value, graph and sequence based neural architectures and their application to autonomous navigation  
   - Understanding the deeper meaning of ancient wisdom in a modern context.  
 
 ---
