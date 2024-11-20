@@ -6,6 +6,9 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prashant83/)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=Google-Chrome&logoColor=white)](https://pkr-space.web.app/)
 [![Email Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:prashant81995@gmail.com)
+[![ORCID Badge](https://img.shields.io/badge/-ORCID-green?style=flat&logo=ORCID&logoColor=white)](https://orcid.org/0000-0002-4843-3150)
+[![Google Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-blue?style=flat&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=QHhcXZIAAAAJ&hl=en)
+
 
 ---
 
