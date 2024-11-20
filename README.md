@@ -54,7 +54,7 @@ I’m a **doctoral researcher** exploring cutting-edge **AI and robotic percepti
 
 ## 🌟 Fun Facts
 
-- 💬 Favorite quote: *"Sometimes you gotta run before you can walk."*  
+- 💬 Favorite quote: *"Manifold possibilities emerge where the mind dares to explore."*  
 - 🔭 Exploring the intersection of **chaos and clarity** where **potential converges with purpose**.  
 - 📚 Big fan of **Neal Stephenson** and fascinated by the simulation hypothesis (*“The Lattice,” as I like to call it*).  
 
