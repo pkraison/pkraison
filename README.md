@@ -8,6 +8,7 @@
 [![Email Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:prashant81995@gmail.com)
 [![ORCID Badge](https://img.shields.io/badge/-ORCID-green?style=flat&logo=ORCID&logoColor=white)](https://orcid.org/0000-0002-4843-3150)
 [![Google Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-blue?style=flat&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=QHhcXZIAAAAJ&hl=en)
+[![X Badge](https://img.shields.io/badge/-X-black?style=flat&logo=X&logoColor=white)](https://twitter.com/imprashantrai1)
 
 
 ---
