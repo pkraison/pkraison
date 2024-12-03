@@ -20,7 +20,7 @@ I’m a **doctoral researcher** exploring cutting-edge **AI and robotic percepti
 🌟 Inspired by *Iron Man*, I thrive on solving challenges where **chaos meets clarity** to uncover manifold possibilities.
 
 - 🔭 **Current Focus**:  
-  - Working with automotive imaging radar for robust state estimation using low leve raw data.
+  - Working with automotive imaging radar for robust state estimation using low level raw data.
   - Multi-modal sensor fusion and calibration 
   - World models that integrate **radar, IMU, cameras and LiDAR** seamlessly.  
   - Extending my **environment perception and state estimation in challenging scenarios** research with uncertainty aware deep learning.
@@ -37,19 +37,19 @@ I’m a **doctoral researcher** exploring cutting-edge **AI and robotic percepti
 `Python` · `C`· `C++` · `MATLAB` · `ROS2` · `CUDA`  
 
 **AI Frameworks**:  
-`PyTorch` · `TensorFlow` · `Keras` · `JAX`  
+`PyTorch` · `TensorFlow` · `Keras` · `JAX` · `ONNX` · `TensorRT` 
 
 **Specialties**:  
-`Radar Perception` · `3D Computer Vision` · `Transformers` · `Probabilistic deep learning` · `Sensor Fusion`
+`Radar Perception` · `3D Computer Vision` · `Transformers` · `Probabilistic deep learning` · `Sensor Fusion`· `Software Development`
 
 **Platforms**:  
-`Jetson Xavier AGX/Orin` · `Texas Instruments' Cascade Radar` · `Docker`  
+`Jetson Xavier AGX/Orin` · `Texas Instruments DSP Board` · `Docker`  
 
 ---
 
 ## 📜 Achievements
 
-- 🤖 Developed automated pipelines for **active learning, automated annotation, model compression and edge AI** during my work at Clear Image AI as a data scientist.  
+- 🤖 Developed automated pipelines for **active learning, distribted ML training,  automated annotation, model compression and edge AI** during my work at Clear Image AI as a data scientist.  
 
 ---
 
