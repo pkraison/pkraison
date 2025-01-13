@@ -5,7 +5,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prashant83/)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=Google-Chrome&logoColor=white)](https://pkr-space.web.app/)
-[![Email Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:prashant81995@gmail.com)
+[![Email Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:prashant.rai@tuni.fi)
 [![ORCID Badge](https://img.shields.io/badge/-ORCID-green?style=flat&logo=ORCID&logoColor=white)](https://orcid.org/0000-0002-4843-3150)
 [![Google Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-blue?style=flat&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=QHhcXZIAAAAJ&hl=en)
 [![X Badge](https://img.shields.io/badge/-X-black?style=flat&logo=X&logoColor=white)](https://twitter.com/imprashantrai1)
@@ -74,7 +74,7 @@ I’m a **doctoral researcher** exploring cutting-edge **AI and robotic percepti
 <p align="center">
   <a href="https://www.linkedin.com/in/prashant83/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
   <a href="https://pkr-space.web.app"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=Google-Chrome&logoColor=white"></a>
-  <a href="mailto:prashant81995@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+  <a href="mailto:prashant.rai@tuni.fi"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 </p>
 
 ---
