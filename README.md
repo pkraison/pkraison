@@ -15,7 +15,6 @@
 
 I’m a **doctoral researcher** exploring cutting-edge **AI and robotic perception**, focused on creating intelligent systems that perceive and navigate the world in all its complexity. My work bridges **radar perception, embodied AI, and 3D computer vision and probabilistic machine learning**, with applications in autonomous navigation and heavy machinery automation.
 
-🌟 Inspired by *Iron Man*, I thrive on solving challenges where **chaos meets clarity** to uncover manifold possibilities.
 
 - 🔭 **Current Focus**:  
   - Working with automotive imaging radar for robust state estimation using low level raw data.
@@ -51,13 +50,6 @@ I’m a **doctoral researcher** exploring cutting-edge **AI and robotic percepti
 
 ---
 
-## 🌟 Fun Facts
-
-- 💬 Favorite quote: *"Manifold possibilities emerge where the mind dares to explore."*  
-- 🔭 Exploring the intersection of **chaos and clarity** where **potential converges with purpose**.  
-- 📚 Big fan of **Neal Stephenson** and fascinated by the simulation hypothesis (*“The Lattice,” as I like to call it*).  
-
----
 
 ## 📊 GitHub Stats
 
